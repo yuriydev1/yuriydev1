@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yuriydev1
-- 👀 I’m interested in C# ASP.NET MVC development + DataBase Microsoft SQL Azure
-- 🌱 I’m currently learning Razor 
+- 👋 Hi, I’m C# ASP.NET DEVELOPER
+- 👀 I’m interested in C# ASP.NET MVC + Razor Pages and Blazor development + DataBase Microsoft SQL Azure
+- 🌱 I’m currently learning Unity 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
